@@ -1,6 +1,6 @@
 <h3 align="center">Hi there!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>I'm Nakul Mantri</h3>
 <h3 align="center">A passionate full stack developer and programmer</h3>
-<img align="right" alt="GIF" src="./Code-typing-1.webp" width="500" height="320" />
+<img align="right" alt="GIF" src="./Code-typing-1.webp" width="250" height="220" />
 
 - 🌱 I’m currently learning **RestAPI, Postman, PostgreSQL, php**
 
